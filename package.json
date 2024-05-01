@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "bullmq": "^4.9.0",
+    "deep-email-validator": "^0.1.21",
+    "dns": "^0.2.2",
+    "nodemailer": "^6.9.3",
+    "pdf-parse": "^1.1.1"
+  }
+}
